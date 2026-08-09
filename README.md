@@ -1,7 +1,5 @@
 # Algorithm Visualizer 
 
-PROJECT LINK: https://git-hub-repository-copilot-kd6w.vercel.app/
-
 Algorithm Visualizer is an interactive web application for visualizing graph traversal and pathfinding algorithms. It provides an intuitive way to understand how different algorithms explore a graph step by step.
 
 <p align="center">
